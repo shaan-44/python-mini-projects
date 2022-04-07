@@ -1,2 +1,2 @@
-# python-mini-projects
+# mini-projects-python
 A mini project of python
